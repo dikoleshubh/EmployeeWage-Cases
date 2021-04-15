@@ -6,7 +6,7 @@ namespace ConsoleApp5
 {
     class EmployeeAttendence
     {
-        public static void employee()
+        public static void employee() ////Employee Attendece Cases
         {
             const int present = 1;
             Random rnd = new Random();
@@ -25,9 +25,9 @@ namespace ConsoleApp5
             
             
         }
-         /// </summary>
+         /// Emplloyee Wage System
         /// <param name="num"></param>
-        private static void Dailywage(int num)
+        private static void Dailywage(int num)  
         {
             int empwage;
             int partempwage;
